@@ -1,4 +1,4 @@
-# CMPE Truck Simulator
+# CMPE Truck Simulator Using Various Self-Implemented Data Structures
 
 ## Overview
 
