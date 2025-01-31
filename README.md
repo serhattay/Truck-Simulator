@@ -1,4 +1,4 @@
-# CMPE Truck Simulator Using Various Self-Implemented Data Structures
+# CMPE Truck Simulator Using Self-Implemented Data Structures
 
 ## Overview
 
@@ -10,6 +10,12 @@ The **CMPE Truck Simulator** is a simulation program designed to manage a truck 
 - **Truck Management**: Add trucks with varying load capacities to parking lots.
 - **Load Handling**: Load trucks with goods, transferring loads between parking lots when necessary.
 - **Efficient Distribution**: Simulate the efficient distribution of loads across the fleet based on parking lot and truck capacities.
+
+## Data Structures Used
+
+- **Queue**: Used to manage truck arrivals and departures in parking lots in a first-in-first-out (FIFO) manner.
+- **AVL Tree**: Employed for maintaining an ordered list of trucks in parking lots, ensuring efficient insertion, deletion, and retrieval operations.
+- **Object-Oriented Programming (OOP)**: The simulator is built using OOP principles, including classes, inheritance, polymorphism, and encapsulation, to create a modular and maintainable system.
 
 ## Installation
 
